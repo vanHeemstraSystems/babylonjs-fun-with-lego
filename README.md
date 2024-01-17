@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+babylonjs-fun-with-lego
+# BabylonJS - Fun with LEGO
 
-Based on "ABC" at https://www.abc.com/
+Based on "BabylonJS - Fun with LEGO" at https://www.youtube.com/playlist?list=PLsaE__vWcRalV8VOCMeaT3M7ET-gPopyN
 
 ## 100 - Introduction
 
